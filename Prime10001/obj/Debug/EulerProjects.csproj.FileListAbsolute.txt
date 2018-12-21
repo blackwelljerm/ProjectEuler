@@ -1,0 +1,5 @@
+C:\Users\Jerm\Google Drive\Websites\Project Euler\Prime10001\bin\Debug\ClassLibrary1.exe
+C:\Users\Jerm\Google Drive\Websites\Project Euler\Prime10001\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jerm\Google Drive\Websites\Project Euler\Prime10001\obj\Debug\ClassLibrary1.exe
+C:\Users\Jerm\Google Drive\Websites\Project Euler\Prime10001\obj\Debug\ClassLibrary1.pdb
+C:\Users\Jerm\Google Drive\Websites\Project Euler\Prime10001\obj\Debug\EulerProjects.csprojResolveAssemblyReference.cache

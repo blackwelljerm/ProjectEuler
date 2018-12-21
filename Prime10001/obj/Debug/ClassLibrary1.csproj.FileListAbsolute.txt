@@ -1,0 +1,5 @@
+C:\Users\Jeremy\Websites\testcsharp\Project Euler\Multiples of 3 and 5\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jeremy\Websites\testcsharp\Project Euler\Multiples of 3 and 5\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Jeremy\Websites\testcsharp\Project Euler\Multiples of 3 and 5\ClassLibrary1\bin\Debug\ClassLibrary1.exe
+C:\Users\Jeremy\Websites\testcsharp\Project Euler\Multiples of 3 and 5\ClassLibrary1\obj\Debug\ClassLibrary1.exe
+C:\Users\Jeremy\Websites\testcsharp\Project Euler\Multiples of 3 and 5\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache

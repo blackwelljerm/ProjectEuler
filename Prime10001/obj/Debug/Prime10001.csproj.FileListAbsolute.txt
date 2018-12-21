@@ -1,0 +1,10 @@
+C:\Users\Jeremy\Websites\testcsharp\Project Euler\Multiples of 3 and 5\10001Prime\obj\Debug\ClassLibrary1.exe
+C:\Users\Jeremy\Websites\testcsharp\Project Euler\Multiples of 3 and 5\10001Prime\obj\Debug\ClassLibrary1.pdb
+C:\Users\Jeremy\Websites\testcsharp\Project Euler\Multiples of 3 and 5\10001Prime\bin\Debug\ClassLibrary1.exe
+C:\Users\Jeremy\Websites\testcsharp\Project Euler\Multiples of 3 and 5\10001Prime\bin\Debug\ClassLibrary1.pdb
+C:\Users\Jeremy\Websites\Project Euler\10001Prime\obj\Debug\ClassLibrary1.exe
+C:\Users\Jeremy\Websites\Project Euler\10001Prime\obj\Debug\ClassLibrary1.pdb
+C:\Users\Jeremy\Websites\Project Euler\Prime10001\obj\Debug\ClassLibrary1.exe
+C:\Users\Jeremy\Websites\Project Euler\Prime10001\obj\Debug\ClassLibrary1.pdb
+C:\Users\Jeremy\Websites\Project Euler\Prime10001\bin\Debug\ClassLibrary1.exe
+C:\Users\Jeremy\Websites\Project Euler\Prime10001\bin\Debug\ClassLibrary1.pdb

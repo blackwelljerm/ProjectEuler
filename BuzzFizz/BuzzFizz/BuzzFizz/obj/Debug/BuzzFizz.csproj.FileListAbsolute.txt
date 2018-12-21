@@ -1,0 +1,6 @@
+C:\Users\Jerm\Google Drive\Websites\Project Euler\BuzzFizz\BuzzFizz\BuzzFizz\bin\Debug\BuzzFizz.exe.config
+C:\Users\Jerm\Google Drive\Websites\Project Euler\BuzzFizz\BuzzFizz\BuzzFizz\bin\Debug\BuzzFizz.exe
+C:\Users\Jerm\Google Drive\Websites\Project Euler\BuzzFizz\BuzzFizz\BuzzFizz\bin\Debug\BuzzFizz.pdb
+C:\Users\Jerm\Google Drive\Websites\Project Euler\BuzzFizz\BuzzFizz\BuzzFizz\obj\Debug\BuzzFizz.exe
+C:\Users\Jerm\Google Drive\Websites\Project Euler\BuzzFizz\BuzzFizz\BuzzFizz\obj\Debug\BuzzFizz.pdb
+C:\Users\Jerm\Google Drive\Websites\Project Euler\BuzzFizz\BuzzFizz\BuzzFizz\obj\Debug\BuzzFizz.csprojResolveAssemblyReference.cache
